@@ -16,7 +16,7 @@ To install PyWebLoad, you can clone the PyWebLoad repository from GitHub: `git c
 
 To use PyWebLoad, you can follow these steps:
 
-1. Run the PyWebLoad application: `python pywebload.py`
+1. Run the PyWebLoad application: `python server.py`
 2. Open a web browser and go to `http://localhost:8000` to access the hosted website.
 3. Use the web browser to load pages from the webserver host computer.
 
